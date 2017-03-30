@@ -1,4 +1,4 @@
-# android-rewarded-video-ads
+# android-rewarded-video
 The android app tests Admob rewarded video ads
 
 # About
